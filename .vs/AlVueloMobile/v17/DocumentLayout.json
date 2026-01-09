@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\martina\\C#\\MainPage_AlVuelo_User\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A34DA64C-5DD6-4C56-B613-93CA7B6B9984}|MainPage_AlVuelo_User\\AlVueloMobile.csproj|d:\\martina\\c#\\mainpage_alvuelo_user\\mainpage_alvuelo_user\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34DA64C-5DD6-4C56-B613-93CA7B6B9984}|MainPage_AlVuelo_User\\AlVueloMobile.csproj|solutionrelative:mainpage_alvuelo_user\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34DA64C-5DD6-4C56-B613-93CA7B6B9984}|MainPage_AlVuelo_User\\AlVueloMobile.csproj|d:\\martina\\c#\\mainpage_alvuelo_user\\mainpage_alvuelo_user\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A34DA64C-5DD6-4C56-B613-93CA7B6B9984}|MainPage_AlVuelo_User\\AlVueloMobile.csproj|solutionrelative:mainpage_alvuelo_user\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34DA64C-5DD6-4C56-B613-93CA7B6B9984}|MainPage_AlVuelo_User\\AlVueloMobile.csproj|d:\\martina\\c#\\mainpage_alvuelo_user\\mainpage_alvuelo_user\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A34DA64C-5DD6-4C56-B613-93CA7B6B9984}|MainPage_AlVuelo_User\\AlVueloMobile.csproj|solutionrelative:mainpage_alvuelo_user\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34DA64C-5DD6-4C56-B613-93CA7B6B9984}|MainPage_AlVuelo_User\\AlVueloMobile.csproj|d:\\martina\\c#\\mainpage_alvuelo_user\\mainpage_alvuelo_user\\dishdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A34DA64C-5DD6-4C56-B613-93CA7B6B9984}|MainPage_AlVuelo_User\\AlVueloMobile.csproj|solutionrelative:mainpage_alvuelo_user\\dishdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34DA64C-5DD6-4C56-B613-93CA7B6B9984}|MainPage_AlVuelo_User\\AlVueloMobile.csproj|d:\\martina\\c#\\mainpage_alvuelo_user\\mainpage_alvuelo_user\\menupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34DA64C-5DD6-4C56-B613-93CA7B6B9984}|MainPage_AlVuelo_User\\AlVueloMobile.csproj|solutionrelative:mainpage_alvuelo_user\\menupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34DA64C-5DD6-4C56-B613-93CA7B6B9984}|MainPage_AlVuelo_User\\AlVueloMobile.csproj|d:\\martina\\c#\\mainpage_alvuelo_user\\mainpage_alvuelo_user\\menupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A34DA64C-5DD6-4C56-B613-93CA7B6B9984}|MainPage_AlVuelo_User\\AlVueloMobile.csproj|solutionrelative:mainpage_alvuelo_user\\menupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34DA64C-5DD6-4C56-B613-93CA7B6B9984}|MainPage_AlVuelo_User\\AlVueloMobile.csproj|d:\\martina\\c#\\mainpage_alvuelo_user\\mainpage_alvuelo_user\\alvuelomobile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A34DA64C-5DD6-4C56-B613-93CA7B6B9984}|MainPage_AlVuelo_User\\AlVueloMobile.csproj|solutionrelative:mainpage_alvuelo_user\\alvuelomobile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34DA64C-5DD6-4C56-B613-93CA7B6B9984}|MainPage_AlVuelo_User\\AlVueloMobile.csproj|d:\\martina\\c#\\mainpage_alvuelo_user\\mainpage_alvuelo_user\\restaurantspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34DA64C-5DD6-4C56-B613-93CA7B6B9984}|MainPage_AlVuelo_User\\AlVueloMobile.csproj|solutionrelative:mainpage_alvuelo_user\\restaurantspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34DA64C-5DD6-4C56-B613-93CA7B6B9984}|MainPage_AlVuelo_User\\AlVueloMobile.csproj|d:\\martina\\c#\\mainpage_alvuelo_user\\mainpage_alvuelo_user\\restaurantspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A34DA64C-5DD6-4C56-B613-93CA7B6B9984}|MainPage_AlVuelo_User\\AlVueloMobile.csproj|solutionrelative:mainpage_alvuelo_user\\restaurantspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34DA64C-5DD6-4C56-B613-93CA7B6B9984}|MainPage_AlVuelo_User\\AlVueloMobile.csproj|d:\\martina\\c#\\mainpage_alvuelo_user\\mainpage_alvuelo_user\\viewmodels\\dishdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34DA64C-5DD6-4C56-B613-93CA7B6B9984}|MainPage_AlVuelo_User\\AlVueloMobile.csproj|solutionrelative:mainpage_alvuelo_user\\viewmodels\\dishdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34DA64C-5DD6-4C56-B613-93CA7B6B9984}|MainPage_AlVuelo_User\\AlVueloMobile.csproj|d:\\martina\\c#\\mainpage_alvuelo_user\\mainpage_alvuelo_user\\viewmodels\\menuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34DA64C-5DD6-4C56-B613-93CA7B6B9984}|MainPage_AlVuelo_User\\AlVueloMobile.csproj|solutionrelative:mainpage_alvuelo_user\\viewmodels\\menuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34DA64C-5DD6-4C56-B613-93CA7B6B9984}|MainPage_AlVuelo_User\\MainPage_AlVuelo_User.csproj|d:\\martina\\c#\\mainpage_alvuelo_user\\mainpage_alvuelo_user\\viewmodels\\restaurantsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34DA64C-5DD6-4C56-B613-93CA7B6B9984}|MainPage_AlVuelo_User\\MainPage_AlVuelo_User.csproj|solutionrelative:mainpage_alvuelo_user\\viewmodels\\restaurantsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34DA64C-5DD6-4C56-B613-93CA7B6B9984}|MainPage_AlVuelo_User\\MainPage_AlVuelo_User.csproj|d:\\martina\\c#\\mainpage_alvuelo_user\\mainpage_alvuelo_user\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34DA64C-5DD6-4C56-B613-93CA7B6B9984}|MainPage_AlVuelo_User\\MainPage_AlVuelo_User.csproj|solutionrelative:mainpage_alvuelo_user\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34DA64C-5DD6-4C56-B613-93CA7B6B9984}|MainPage_AlVuelo_User\\MainPage_AlVuelo_User.csproj|d:\\martina\\c#\\mainpage_alvuelo_user\\mainpage_alvuelo_user\\models\\restaurantedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34DA64C-5DD6-4C56-B613-93CA7B6B9984}|MainPage_AlVuelo_User\\MainPage_AlVuelo_User.csproj|solutionrelative:mainpage_alvuelo_user\\models\\restaurantedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A34DA64C-5DD6-4C56-B613-93CA7B6B9984}|MainPage_AlVuelo_User\\MainPage_AlVuelo_User.csproj|d:\\martina\\c#\\mainpage_alvuelo_user\\mainpage_alvuelo_user\\models\\platodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34DA64C-5DD6-4C56-B613-93CA7B6B9984}|MainPage_AlVuelo_User\\MainPage_AlVuelo_User.csproj|solutionrelative:mainpage_alvuelo_user\\models\\platodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\martina\\C#\\MainPage_AlVuelo_User\\MainPage_AlVuelo_User\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage_AlVuelo_User\\MainPage.xaml",
+              "ToolTip": "D:\\martina\\C#\\MainPage_AlVuelo_User\\MainPage_AlVuelo_User\\MainPage.xaml",
+              "RelativeToolTip": "MainPage_AlVuelo_User\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-09T02:06:12.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\martina\\C#\\MainPage_AlVuelo_User\\MainPage_AlVuelo_User\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MainPage_AlVuelo_User\\MauiProgram.cs",
+              "ToolTip": "D:\\martina\\C#\\MainPage_AlVuelo_User\\MainPage_AlVuelo_User\\MauiProgram.cs",
+              "RelativeToolTip": "MainPage_AlVuelo_User\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T02:06:10.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\martina\\C#\\MainPage_AlVuelo_User\\MainPage_AlVuelo_User\\AppShell.xaml",
+              "RelativeDocumentMoniker": "MainPage_AlVuelo_User\\AppShell.xaml",
+              "ToolTip": "D:\\martina\\C#\\MainPage_AlVuelo_User\\MainPage_AlVuelo_User\\AppShell.xaml",
+              "RelativeToolTip": "MainPage_AlVuelo_User\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-09T02:06:00.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DishDetailPage.xaml",
+              "DocumentMoniker": "D:\\martina\\C#\\MainPage_AlVuelo_User\\MainPage_AlVuelo_User\\DishDetailPage.xaml",
+              "RelativeDocumentMoniker": "MainPage_AlVuelo_User\\DishDetailPage.xaml",
+              "ToolTip": "D:\\martina\\C#\\MainPage_AlVuelo_User\\MainPage_AlVuelo_User\\DishDetailPage.xaml",
+              "RelativeToolTip": "MainPage_AlVuelo_User\\DishDetailPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-09T02:05:52.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuPage.xaml.cs",
+              "DocumentMoniker": "D:\\martina\\C#\\MainPage_AlVuelo_User\\MainPage_AlVuelo_User\\MenuPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage_AlVuelo_User\\MenuPage.xaml.cs",
+              "ToolTip": "D:\\martina\\C#\\MainPage_AlVuelo_User\\MainPage_AlVuelo_User\\MenuPage.xaml.cs",
+              "RelativeToolTip": "MainPage_AlVuelo_User\\MenuPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T02:05:33.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuPage.xaml",
+              "DocumentMoniker": "D:\\martina\\C#\\MainPage_AlVuelo_User\\MainPage_AlVuelo_User\\MenuPage.xaml",
+              "RelativeDocumentMoniker": "MainPage_AlVuelo_User\\MenuPage.xaml",
+              "ToolTip": "D:\\martina\\C#\\MainPage_AlVuelo_User\\MainPage_AlVuelo_User\\MenuPage.xaml",
+              "RelativeToolTip": "MainPage_AlVuelo_User\\MenuPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-09T02:05:07.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RestaurantsPage.xaml.cs",
+              "DocumentMoniker": "D:\\martina\\C#\\MainPage_AlVuelo_User\\MainPage_AlVuelo_User\\RestaurantsPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage_AlVuelo_User\\RestaurantsPage.xaml.cs",
+              "ToolTip": "D:\\martina\\C#\\MainPage_AlVuelo_User\\MainPage_AlVuelo_User\\RestaurantsPage.xaml.cs",
+              "RelativeToolTip": "MainPage_AlVuelo_User\\RestaurantsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T02:04:49.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RestaurantsPage.xaml",
+              "DocumentMoniker": "D:\\martina\\C#\\MainPage_AlVuelo_User\\MainPage_AlVuelo_User\\RestaurantsPage.xaml",
+              "RelativeDocumentMoniker": "MainPage_AlVuelo_User\\RestaurantsPage.xaml",
+              "ToolTip": "D:\\martina\\C#\\MainPage_AlVuelo_User\\MainPage_AlVuelo_User\\RestaurantsPage.xaml",
+              "RelativeToolTip": "MainPage_AlVuelo_User\\RestaurantsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-09T02:04:40.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlVueloMobile.csproj",
+              "DocumentMoniker": "D:\\martina\\C#\\MainPage_AlVuelo_User\\MainPage_AlVuelo_User\\AlVueloMobile.csproj",
+              "RelativeDocumentMoniker": "MainPage_AlVuelo_User\\AlVueloMobile.csproj",
+              "ToolTip": "D:\\martina\\C#\\MainPage_AlVuelo_User\\MainPage_AlVuelo_User\\AlVueloMobile.csproj",
+              "RelativeToolTip": "MainPage_AlVuelo_User\\AlVueloMobile.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-09T01:57:25.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DishDetailViewModel.cs",
+              "DocumentMoniker": "D:\\martina\\C#\\MainPage_AlVuelo_User\\MainPage_AlVuelo_User\\ViewModels\\DishDetailViewModel.cs",
+              "RelativeDocumentMoniker": "MainPage_AlVuelo_User\\ViewModels\\DishDetailViewModel.cs",
+              "ToolTip": "D:\\martina\\C#\\MainPage_AlVuelo_User\\MainPage_AlVuelo_User\\ViewModels\\DishDetailViewModel.cs",
+              "RelativeToolTip": "MainPage_AlVuelo_User\\ViewModels\\DishDetailViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T02:01:44.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuViewModel.cs",
+              "DocumentMoniker": "D:\\martina\\C#\\MainPage_AlVuelo_User\\MainPage_AlVuelo_User\\ViewModels\\MenuViewModel.cs",
+              "RelativeDocumentMoniker": "MainPage_AlVuelo_User\\ViewModels\\MenuViewModel.cs",
+              "ToolTip": "D:\\martina\\C#\\MainPage_AlVuelo_User\\MainPage_AlVuelo_User\\ViewModels\\MenuViewModel.cs",
+              "RelativeToolTip": "MainPage_AlVuelo_User\\ViewModels\\MenuViewModel.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T02:01:26.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RestauranteDto.cs",
+              "DocumentMoniker": "D:\\martina\\C#\\MainPage_AlVuelo_User\\MainPage_AlVuelo_User\\Models\\RestauranteDto.cs",
+              "RelativeDocumentMoniker": "MainPage_AlVuelo_User\\Models\\RestauranteDto.cs",
+              "ToolTip": "D:\\martina\\C#\\MainPage_AlVuelo_User\\MainPage_AlVuelo_User\\Models\\RestauranteDto.cs",
+              "RelativeToolTip": "MainPage_AlVuelo_User\\Models\\RestauranteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T01:57:01.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlatoDto.cs",
+              "DocumentMoniker": "D:\\martina\\C#\\MainPage_AlVuelo_User\\MainPage_AlVuelo_User\\Models\\PlatoDto.cs",
+              "RelativeDocumentMoniker": "MainPage_AlVuelo_User\\Models\\PlatoDto.cs",
+              "ToolTip": "D:\\martina\\C#\\MainPage_AlVuelo_User\\MainPage_AlVuelo_User\\Models\\PlatoDto.cs",
+              "RelativeToolTip": "MainPage_AlVuelo_User\\Models\\PlatoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T01:57:19.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "D:\\martina\\C#\\MainPage_AlVuelo_User\\MainPage_AlVuelo_User\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "MainPage_AlVuelo_User\\Services\\ApiService.cs",
+              "ToolTip": "D:\\martina\\C#\\MainPage_AlVuelo_User\\MainPage_AlVuelo_User\\Services\\ApiService.cs",
+              "RelativeToolTip": "MainPage_AlVuelo_User\\Services\\ApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T01:57:49.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RestaurantsViewModel.cs",
+              "DocumentMoniker": "D:\\martina\\C#\\MainPage_AlVuelo_User\\MainPage_AlVuelo_User\\ViewModels\\RestaurantsViewModel.cs",
+              "RelativeDocumentMoniker": "MainPage_AlVuelo_User\\ViewModels\\RestaurantsViewModel.cs",
+              "ToolTip": "D:\\martina\\C#\\MainPage_AlVuelo_User\\MainPage_AlVuelo_User\\ViewModels\\RestaurantsViewModel.cs",
+              "RelativeToolTip": "MainPage_AlVuelo_User\\ViewModels\\RestaurantsViewModel.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T01:58:49.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

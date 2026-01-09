@@ -1,0 +1,2 @@
+ Routing.RegisterRoute(nameof(MenuPage), typeof(MenuPage));
+Routing.RegisterRoute(nameof(DishDetailPage), typeof(DishDetailPage));

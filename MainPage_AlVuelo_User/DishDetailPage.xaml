@@ -1,0 +1,12 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             x:Class="AlVueloMobile.Views.DishDetailPage"
+             Title="Detalle">
+    <ScrollView>
+        <VerticalStackLayout Padding="16" Spacing="10">
+            <Label Text="{Binding Plato.nombre}" FontSize="24"/>
+            <Label Text="{Binding Plato.precio, StringFormat='Precio: {0:C}'}" FontSize="18"/>
+            <Label Text="{Binding Plato.ingredientes}" />
+            <Label Text="{Binding Plato.disponibilidad, StringFormat='Disponible: {0}'}" />
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
